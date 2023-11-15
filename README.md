@@ -28,7 +28,7 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 
-# FIGMA
+FIGMA
 
 ## CODE:
 ```
