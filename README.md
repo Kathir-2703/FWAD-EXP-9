@@ -163,7 +163,9 @@ color: #FFFFFF;
 
 ```
 ## OUTPUT:
-
+![out2](https://github.com/Kathir-2703/FWAD-EXP-9/assets/64436376/f721fb9d-72df-4c36-b2ec-8aef4b674729)
+![out3](https://github.com/Kathir-2703/FWAD-EXP-9/assets/64436376/be98096d-cc20-4f9a-9584-5ae59ff21cd7)
+![out1](https://github.com/Kathir-2703/FWAD-EXP-9/assets/64436376/9c880410-5058-4944-80d2-b0ae12ae3643)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
