@@ -27,6 +27,9 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
+
+# FIGMA
+
 ## CODE:
 ```
 /* HomePage */
